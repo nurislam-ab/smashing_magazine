@@ -8,8 +8,27 @@ body {
   background: #5c5c3d;
 }
 
+.navbar ul li {
+  height: 200px;
+  display: inline-block;
+  list-style: none;
+}
+
+.navbar ul .first {
+  width: 15%;
+}
+
+.navbar ul .item {
+  width: 13%;
+}
+
+.navbar ul .last {
+  width: auto;
+}
+
 section {
   width: 100%;
+  float: left;
 }
 
 .col {
@@ -32,4 +51,94 @@ section .three {
 
 section .four {
   background: #2e2e1f;
+}
+
+article {
+  width: 33%;
+  height: 450px;
+  display: inline-block;
+  margin: 0;
+}
+
+.b-one {
+  background: #adad85;
+}
+
+.b-two {
+  background: #b8b894;
+}
+
+.b-three {
+  background: #c2c2a3;
+}
+
+.left {
+  width: 40%;
+  height: 600px;
+  float: left;
+  background: #c2c2a3;
+}
+
+.right {
+  width: 60%;
+  height: 600px;
+  float: right;
+  background: #2e2e1f;
+}
+
+.promo-section {
+  width: 100%;
+  height: 900px;
+  display: inline-block;
+  background: #3d3d29;
+}
+
+.main {
+  width: 100%;
+  height: 400px;
+  background: #ccccb3;
+}
+
+.art {
+  width: 50%;
+  height: 350px;
+  float: left;
+}
+
+.link-one {
+  background: #e0e0d1;
+}
+
+.link-two {
+  background: #ebebe0;
+}
+
+.link-three {
+  background-color: #c2c2a3;
+}
+
+.link-four {
+  background: #d6d6c2;
+}
+
+.link-five {
+  background: #ebebe0;
+}
+
+.link-six {
+  background: #f5f5f0;
+}
+
+.billboard {
+  width: 100%;
+  height: 500px;
+  float: left;
+  background: #6b6b47;
+}
+
+footer {
+  width: 100%;
+  height: 650px;
+  float: left;
+  background: #3d3d29;
 }
