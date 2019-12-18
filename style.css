@@ -1,0 +1,35 @@
+body {
+
+}
+
+.navbar {
+  width: 100%;
+  height: 200px;
+  background: #5c5c3d;
+}
+
+section {
+  width: 100%;
+}
+
+.col {
+  width: 50%;
+  height: 600px;
+  float: left;
+}
+
+section .one {
+  background: #2e2e1f;
+}
+
+section .two {
+  background: #3d3d29;
+}
+
+section .three {
+  background: #1f1f14;
+}
+
+section .four {
+  background: #2e2e1f;
+}
