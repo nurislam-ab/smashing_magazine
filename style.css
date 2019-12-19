@@ -16,6 +16,18 @@ a {
   margin: auto;
 }
 
+.curated-posts-section span,
+h2,
+ul li {
+  padding: 10px 50px;
+  list-style-position: inside;
+}
+
+footer ul li {
+  display: inline-block;
+  width: auto;
+}
+
 .navbar ul li {
   height: 200px;
   display: inline-block;
@@ -146,7 +158,7 @@ article {
   height: 600px;
   float: left;
   background: #c2c2a3;
-  padding: 0px 40px;
+  padding: auto 40px;
   box-sizing: border-box;
 }
 
@@ -238,13 +250,6 @@ article {
   box-sizing: border-box;
 }
 
-.curated-posts-section span,
-h2,
-ul li {
-  padding: 10px 50px;
-  list-style-position: inside;
-}
-
 .newsletter {
   text-align: center;
   padding-top: 50px;
@@ -258,9 +263,4 @@ footer {
   text-align: center;
   box-sizing: border-box;
   padding: 50px 100px;
-}
-
-footer ul li {
-  display: inline-block;
-  width: auto;
 }
