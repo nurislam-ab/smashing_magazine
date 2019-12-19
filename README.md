@@ -4,7 +4,7 @@ A heatmap of the Smashing magazine website was built at this project using HTML 
 
 The [Smashing magazine website](https://www.smashingmagazine.com/).
 
-![screenshot](https://github.com/nurislam-ab/smashing_magazine/blob/added-features/screenshot.jpg)
+Screenshot [link](https://github.com/nurislam-ab/smashing_magazine/blob/added-features/screenshot.jpg)
 			
 
 # What it does
