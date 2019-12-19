@@ -75,92 +75,14 @@ section {
 .col-info a {
   text-decoration: none;
   color: white;
-  text-shadow: 1px 1px 1px rgba(0,0,0,.25);
   font-weight: 700;
   font-size: 21.415px;
   line-height: 34.8545px;
-  font-family: "Mija", Arial, Helvetica, sans-serif;
-}
-
-.col-info a span {
-  font-weight: 400;
-  font-family: "Elena", Arial, Helvetica, sans-serif;
-  font-style: italic;
-}
-
-.col-info a img {
-  background: white;
-  display: block;
-  transform: scale(1.2) rotateZ(calc(11 * 1deg));
-  height: 60px;
-  width: 60px;
-  float: left;
-  margin-right: 30px;
-  margin-bottom: 30px;
-  border-radius: 12px;
-}
-
-.col-info h2 a {
-  font-size: 43.856px;
-  line-height: 52.6272px;
-  font-weight: 700;
-  margin-top: 21.928px;
-  font-family: "Mija", Arial, Helvetica, sans-serif;
-  float: left;
-}
-
-.col-info h2 a span {
-  line-height: 1;
-  padding: 5px;
-  font-size: .35em;
-  margin: .625em 0;
-  padding-left: 1.75em;
-  background-image: url(assets/images/comments-icon.svg);
-  background-position: left top 70%;
-  background-size: 1.25em auto;
-  background-repeat: no-repeat;
-  vertical-align: middle;
 }
 
 .categories {
   float: left;
   margin-top: 30px;
-}
-
-.categories a {
-  font-size: 17.5304px;
-  font-weight: 700;
-  line-height: 28.0486px;
-}
-
-.categories a:first-child {
-  margin-right: 17.5304px;
-}
-
-.categories a::before {
-  content: '#';
-  color: grey;
-  margin-right: .25em;
-  font-size: .8em;
-}
-
-.categories a span {
-  color: inherit;
-  font-weight: 700;
-  font-size: .7em;
-  position: relative;
-  top: -.5em;
-}
-
-.categories::after {
-  content: '→';
-  display: block;
-  width: 100px;
-  color: #fff;
-  font-size: 2em;
-  padding: 0;
-  bottom: 1em;
-  margin-top: 1em;
 }
 
 .membership {
@@ -201,31 +123,6 @@ article {
   float: left;
 }
 
-.articles-block article h2 {
-  font-size: 28.43px;
-  font-weight: 700;
-  line-height: 34.116px;
-  margin-bottom: 28.43px;
-  font-family: "Mija", Arial, Helvetica, sans-serif;
-}
-
-span.author-block {
-  font-size: 17.132px;
-  font-weight: 700;
-  line-height: 19.7018px;
-  margin-bottom: 21.415px;
-}
-
-.author-block span a {
-  text-decoration: underline;
-}
-
-.articles-block p {
-  font-family: Elena;
-  font-size: 20.9348px;
-  line-height: 34.1341px;
-  margin-bottom: 27.7648px;
-}
 .b-one {
   width: 33%;
   box-sizing: border-box;
@@ -249,7 +146,7 @@ span.author-block {
   height: 600px;
   float: left;
   background: #c2c2a3;
-  padding: 0 40px;
+  padding: 0px 40px;
   box-sizing: border-box;
 }
 
